@@ -1,1 +1,0 @@
-import{t as e}from"./index-CF76O_UK.js";var t=e(`user`,{state:()=>({user:{}}),actions:{setUserInfo(e){this.user=e},updateUserInfo(e){this.user=e.userInfo}},persist:!0});export{t};
