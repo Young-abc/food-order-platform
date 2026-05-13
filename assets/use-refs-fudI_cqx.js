@@ -1,0 +1,1 @@
+import{Ut as e,un as t}from"./icon-cmG2xAtT.js";function n(){let n=t([]),r=[];return e(()=>{n.value=[]}),[n,e=>(r[e]||(r[e]=t=>{n.value[e]=t}),r[e])]}export{n as t};
