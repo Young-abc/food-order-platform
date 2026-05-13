@@ -1,1 +1,0 @@
-import{It as e,tt as t}from"./icon-cmG2xAtT.js";function n(n){let r=e();r&&t(r.proxy,n)}export{n as t};
